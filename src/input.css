@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+.nav-link {
+    @apply px-4 py-3 font-semibold hover: text-slate-800 transition duration-300
+}
+
+.nav-icon {
+    @apply text-slate-800 hover: text-blue-600 p-2
+}
+
+.container {
+    @apply max-w-6xl px-4 md: px-6 lg:px-8 py-6 md:py-8 lg:py-12
+}
+
+.button {
+    @apply px-4 py-3 bg-slate-200 text-slate-800 transition duration-200 font-semibold text-sm lg: text-base
+}
+
+.button.primary {
+    @apply bg-blue-600 text-white hover: bg-blue-500
+}
+
+.button.outline {
+    @apply border border-blue-500 text-blue-500 hover: bg-blue-500 hover:text-white bg-white
+}
+
+.card {
+    @apply bg-white rounded-lg border border-slate-200
+}
+
+.card-list {
+    @apply flex flex-row items-center gap-3
+}
+
+.footer-icon {
+    @apply bg-white rounded-full p-2 text-blue-600
+}
