@@ -1,11 +1,11 @@
-# 👨‍💻 Lading-Page-Store
+# 👨‍💻 Landing-Page-Store
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Piahn/Lading-Page-Store)
 ![GitHub contributors](https://img.shields.io/github/contributors/Piahn/Lading-Page-Store)
 ![GitHub stars](https://img.shields.io/github/stars/Piahn/Lading-Page-Store?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Piahn/Lading-Page-Store?style=social)
 
-Lading-Page-Store adalah proyek landing page untuk toko online yang dirancang untuk memberikan pengalaman pengguna yang optimal dan responsif.
+Landing-Page-Store adalah proyek landing page untuk toko online yang dirancang untuk memberikan pengalaman pengguna yang optimal dan responsif.
 
 ## 🌐 Demo
 
