@@ -15,6 +15,7 @@ image.map((review) => {
   document.getElementById(review.id).addEventListener("click", function (e) {
     e.preventDefault();
 
+    // silakan ubah sesuai keinginan ui desain kamu
     Swal.fire({
       title: review.title,
       html: `<div class="flex flex-col gap-4">
