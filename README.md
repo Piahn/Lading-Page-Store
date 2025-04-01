@@ -28,4 +28,4 @@ Anda dapat melihat demo langsung dari proyek ini di [lading-page-store.vercel.ap
 1. Untuk menjalankan proyek ini secara lokal jika kamu penggunakan Visual Studio Code (vsc) bisa menginstall **Live Server**, jika kamu tidak punya vscode atau di mobile bisa di jalankan lewat filenya langsung pada `index.html`
 2. Edit berkas konfigurasi `data/reviews.js` dan `index.html` untuk menyesuaikan blog Anda.
 
-terimakasih telah menggunakan repository ini big thanks for all jangan lupa kasih start
+terimakasih telah menggunakan repository ini big thanks for all jangan lupa kasih star
