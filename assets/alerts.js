@@ -22,7 +22,7 @@ image.map((review) => {
               <span>${review.content}</span>
           </div>
           <div class="flex flex-row items-center gap-2">
-              <span class="text-sm">Dibuat oleh ${review.owner}</span>
+              <span class="text-sm items-center">Dibuat oleh ${review.owner}</span>
               <div class="flex flex-row items-center gap-1">
               </div>
           </div>
